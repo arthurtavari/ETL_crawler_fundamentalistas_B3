@@ -1,4 +1,3 @@
-### DESCRIÇÃO DA TABELA: WALLET
 #### A tabela "wallet" contém dados de todas as empresas da minha carteira (dados fictícios), e através da coluna ***ticker*** é possível unir com os dados fundamentalistas da tabela company_detail. 
 
 Nome | Coluna | Descrição
