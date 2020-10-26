@@ -33,4 +33,4 @@ database_wallet.to_csv('database/wallet.csv', index=False)
 s3.upload_file( 'database/wallet.csv', 'tavarilab-finance-project', 'datahub/row/wallet.csv')
 
 date_info = datetime.now().strftime("%d/%m/%Y %H:%M")
-print("PROCESS COMPLETED -", date_info)
+print("PROCESS COMPLETED -", date_info) 
