@@ -5,7 +5,7 @@ O objetivo deste projeto é extrair indicadores fundamentalistas de todas as emp
 
 Utilizei o site [fundamentus](https://www.fundamentus.com.br/) como base para extração dos dados e através dos scritps criados é feito a coleta e armazenamento dos dados em um *Bucket S3 na AWS*: 
 
-O script [crawler_fundamentals.py](https://github.com/arthurtavari/ETL_crawler_fundamentalistas_B3/blob/main/crawler_fundamentals.py) é responsável por todo o processo de raspagem dos dados referente as empresas listadas na B3 e KPIs fundamentalistas. 
+O script [crawler_fundamentals.py](https://github.com/arthurtavari/ETL_crawler_fundamentalistas_B3/blob/main/crawler_fundamentals.py) é responsável por todo o processo de raspagem dos dados referente as empresas listadas na B3 e indicadores fundamentalistas. 
 
 ***Resumo do Script:***
 1. Coleta todas as empresas listadas na B3; 
