@@ -1,3 +1,4 @@
+### DESCRIÇÃO DA TABELA: COMPANY_DETAIL 
 #### A tabela company_detail contém informações e indicadores fundamentalistas de todas as empresas listadas na bolsa de valores (B3). 
 
 Nome | Coluna | Descrição
