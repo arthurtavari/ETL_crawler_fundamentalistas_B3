@@ -1,5 +1,5 @@
 ![img](https://raw.githubusercontent.com/arthurtavari/portfolio_data_science/master/img/layout.jpg)
-### Coletando dados de empresas listadas na B3
+## Coletando dados de empresas listadas na B3
 O objetivo deste projeto é extrair indicadores fundamentalistas de todas as empresas listadas na bolsa de valores (B3).
 
 Utilizei o site [fundamentus](https://www.fundamentus.com.br/) como base para extração dos dados e através dos scritps criados é feito a coleta e armazenamento dos dados em um *Bucket S3 na AWS*: 
